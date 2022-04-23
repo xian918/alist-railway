@@ -15,3 +15,4 @@ Query in mysql
 ```sql
 select value from x_setting_items where `key`='password'
 ```
+
